@@ -1,11 +1,14 @@
 # Duke University :: Department of Statistical Science Computing Bootcamp 2019
 
+
+
 This is a five hour computing bootcamp for incoming Ph.D. and M.S.
 students to the Department of Statistical Science at Duke University. These
 materials are adapted from the [2018 bootcamp](https://github.com/DukeStatSci/computing-bootcamp-2018) by Mine Çetinkaya-Rundel and Colin Rundel.
 
 The workshop will cover the following topics:
 
+asdasdasd
 ## Introduction to the DSS and Duke computing eco-systems
 
 - Account activation and access to departmental servers
@@ -68,6 +71,6 @@ The workshop will cover the following topics:
 
 #### R
 - [R for Data Science](https://r4ds.had.co.nz) by Hadley Wickham and Garret Grolemund
-
+ 
 
 
