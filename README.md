@@ -8,7 +8,7 @@ materials are adapted from the [2018 bootcamp](https://github.com/DukeStatSci/co
 
 The workshop will cover the following topics:
 
-asdasdasd
+asdasdasdasdf
 ## Introduction to the DSS and Duke computing eco-systems
 
 - Account activation and access to departmental servers
